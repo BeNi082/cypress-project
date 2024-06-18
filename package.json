@@ -1,6 +1,8 @@
 {
-  "dependencies": {
-    "cypress": "^13.11.0",
-    "latest": "^0.2.0"
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.11.0"
   }
 }
